@@ -1,1 +1,1 @@
-Static site for https://sigit.dev
+Static site for sigit.dev
