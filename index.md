@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 ## About
 > My name is Sigit. I am Android developer. 
