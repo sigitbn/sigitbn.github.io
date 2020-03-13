@@ -2,8 +2,9 @@
 layout: default
 ---
 
-> Hello, World!
+
+## Hello, World!
 >
-> My name is Sigit. I am Android developer. 
+> My name is Sigit, and I'm an Android developer. 
 >
 > Do you wanna build an Android App? Please contact me at [contact@sigit.dev](mailto:contact@sigit.dev) :)
